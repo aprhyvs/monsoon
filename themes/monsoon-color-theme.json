@@ -538,7 +538,26 @@
 			}
 		}
 	],
-	// IDE settings
+  "semanticTokenColors": {
+    "variable":"#CED1E3",
+    "variable.constant":"#CED1E3",
+    "variable.readonly":"#CED1E3",
+    "parameter.declaration":"#CED1E3",
+    "variable.defaultLibrary":"#CED1E3",
+    "type":"#FFCB6B",
+    "typeParameter":"#F78C6C",
+    "function":"#82AAFF",
+    "comment":"#464B5D",
+    "enumMember":"#CED1E3",
+    "class":"#82AAFF",
+    "class.declaration":"#82AAFF",
+    "class.typeHint.builtin":"#FFCB6B",
+    "number":"#F78C6C",
+    "string":"#C3E88D",
+    "module":"#FFCB6B",
+    "selfParameter":"#B2CCD6",
+    "selfParameter.declaration":"#B2CCD6"
+  },
 	"colors": {
 		//base-colors
 		"foreground":"#CED1E3",
